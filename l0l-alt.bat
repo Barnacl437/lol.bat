@@ -13,10 +13,10 @@ echo shutdown /r -t 1 > emergen-reboot.bat
 echo [dotfile] > dotfile.txt
 echo trolleyMode=on > dotfile.txt
 echo ensuringInfiniteGeneraion=enabled > dotfile.txt
-echo 1> fillout.txt
-echo 2> fillout2.txt
-echo 3> fillout3.txt
-echo 4> fillout4.txt
-echo 5> fillout5.txt
-echo 10> fillout10.txt
+echo 1 > fillout.txt
+echo 2 > fillout2.txt
+echo 3 > fillout3.txt
+echo 4 > fillout4.txt
+echo 5 > fillout5.txt
+echo 10 > fillout10.txt
 start instance.bat
