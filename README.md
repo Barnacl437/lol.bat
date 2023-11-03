@@ -9,3 +9,4 @@ Now this repo has two files, `lol.bat` and `l0l-alt.bat`. The second is an alter
 ![image](https://user-images.githubusercontent.com/87983017/204020251-7c403130-4ffd-47cf-9d81-c4dfda5f45fb.png)
 
 *Warning: this seems perfectly for a troll but do it with care. It may affect system stability by using a lot of system memory and can eventually crash it. You have to be able to stop this by ending `cmd.exe` process tree in Task Manager's Details tab or just end the process at Processes tab. It will be fun only if you can control the fun.*
+*Update: fortunately, this troll is tested relatively safe and you can just hold-spamming Alt-F4 on the CMD windows, they will be closed, without other windows appearing.*
