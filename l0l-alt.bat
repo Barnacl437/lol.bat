@@ -7,8 +7,10 @@ echo so you can use it to troll your friend, but friendly reminding: do it with 
 pause
 echo now start...
 timeout 2
-echo start instance.bat > instance.bat
-echo 
+(
+echo timeout 1
+echo start instance.bat 
+) > instance.bat
 echo shutdown /r -t 1 > emergen-reboot.bat
 echo [dotfile] > dotfile.txt
 echo trolleyMode=on > dotfile.txt
