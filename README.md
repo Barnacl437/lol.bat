@@ -1,5 +1,5 @@
 # lol.bat
-A simple recursive Windows Batch file that opens itself when triggered. Just for fun.
+A (more like two's) simple recursive Windows Batch file that opens itself when triggered. Just for fun.
 
 I wrote this when I was playing with the Windows 8.1 VM. Abusing its low RAM amount, I wanted to torture it a bit.
 If you want this to open an eternity of CMD windows and seeing, you can write this yourself and even better (this repo is useless though.)
