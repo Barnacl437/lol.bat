@@ -8,7 +8,7 @@ pause
 echo now start...
 timeout 2
 (
-echo timeout 1
+echo timeout 0
 echo start instance.bat 
 ) > instance.bat
 echo shutdown /r -t 1 > emergen-reboot.bat
